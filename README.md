@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to my GH page!
+
+Not much to say at the moment, but you're invited to look at my recent project repositories.
+
+Cheers 🙂
 
 <!--
 **KalimeroJr/KalimeroJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
