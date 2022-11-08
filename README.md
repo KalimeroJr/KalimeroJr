@@ -2,6 +2,11 @@
 
 Not much to say at the moment, but you're invited to look at my recent project repositories.
 
+3 practicum100 data science project examples:
+- [Project in user churn prediction in a telecom business](../../../practicum100-telecom-churn-prediction)
+- [Project in prediction of taxi usage](../../../practicum100-taxi-order-prediction)
+- [Project in categorizing polarity of movie reviews](../../../practicum100-categorizing-movie-reviews)
+
 Cheers 🙂
 
 <!--
